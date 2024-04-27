@@ -1,0 +1,1 @@
+Mapeamento, também chamado lista de associações, é uma lista cujos nós associam valores a chaves. As chaves são únicas e os valores são ordenados em função delas.
